@@ -1,4 +1,6 @@
-import template from './part/template';
+// import template from './part/template';
+
+template;
 
 import { users } from './data.js';
 
